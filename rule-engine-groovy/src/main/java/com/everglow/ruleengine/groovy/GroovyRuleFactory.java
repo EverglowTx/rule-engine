@@ -33,8 +33,4 @@ public class GroovyRuleFactory {
         return rule;
     }
 
-    public static void main(String[] args) {
-        log.info("!23");
-    }
-
 }
